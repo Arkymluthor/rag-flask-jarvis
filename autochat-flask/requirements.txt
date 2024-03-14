@@ -1,0 +1,14 @@
+aiohttp==3.8.5
+azure-search-documents==11.6.0b1
+azure-identity==1.15.0
+azure-storage-blob==12.19.1
+langchain==0.1.12
+langchain_community==0.0.28
+langchain_core==0.1.31
+langchain_openai==0.0.8
+openai==1.14.0
+python-dotenv==1.0.1
+quart==0.19.4
+Requests==2.31.0
+gunicorn
+
